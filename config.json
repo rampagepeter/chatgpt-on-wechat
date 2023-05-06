@@ -10,7 +10,7 @@
     "@bot"
   ],
   "group_name_white_list": [
-    "ALL_GROUP",
+    "ALL_GROUP"
   ],
   "group_chat_in_one_session": [
     "ALL_GROUP"
